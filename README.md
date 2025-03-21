@@ -46,8 +46,8 @@ This document contains SQL queries used to analyze the results of the India Gene
 14. **Winning and Runner-Up Candidate in Each Constituency**  
    - Identifies the winner and runner-up in each constituency of a given state.
 
-15. **Maharashtra Election Summary**  
-   - Provides statistics for Maharashtra, including total seats, total candidates, total parties, and vote breakdown.
+15. **Andhra Pradesh Election Summary**  
+   - Provides statistics for Andhra pradesh, including total seats, total candidates, total parties, and vote breakdown.
 
 ## Usage Instructions
 - Run the SQL queries on the election results database to generate analytical reports.
